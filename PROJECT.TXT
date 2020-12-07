@@ -1,0 +1,13 @@
+# Restraunt management system
+Print(‘a. Make an order. \n b. Cancel the order.’)
+
+choice = int(input('input your choice: '))
+
+if choice == a:
+  print(‘continue to the order table’);
+if choice == b:
+  print(‘the order cancelled successfully’);
+else:
+  print('invalid order, try again’);
+
+
